@@ -1,1 +1,1 @@
-# react-to-build-web-app
+Create web application using create-react-app, based on egghead video
